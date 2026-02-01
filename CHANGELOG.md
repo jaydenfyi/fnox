@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.11.1](https://github.com/jdx/fnox/compare/v1.11.0..v1.11.1) - 2026-02-01
+
+### 📚 Documentation
+
+- document tools=true requirement for mise integration by [@jdx](https://github.com/jdx) in [#245](https://github.com/jdx/fnox/pull/245)
+
+### 🔍 Other Changes
+
+- reduce CI bats test parallelism from 3 to 2 tranches by [@jdx](https://github.com/jdx) in [#243](https://github.com/jdx/fnox/pull/243)
+
 ## [1.11.0](https://github.com/jdx/fnox/compare/v1.10.1..v1.11.0) - 2026-02-01
 
 ### 🚀 Features
